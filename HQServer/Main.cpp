@@ -14,7 +14,7 @@ using namespace std;
 int main(void)
 {
 	MsgManage msgmanage;
-	Core core;
+	Core core;//
 
 	WORD wVersionRequested;
 	WSADATA wsa;
