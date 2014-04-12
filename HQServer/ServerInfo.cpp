@@ -15,7 +15,7 @@ std::string GetDate(const char* format)
 ServerInfo::ServerInfo()
 {
 	ServerIP="192.168.1.103";
-	port=3333;
+	port=3323;
 	ServerSock=INVALID_SOCKET;
 	memset(&serverAddress,0,sizeof(serverAddress));
 }
